@@ -1,0 +1,3 @@
+*.cginc  linguist-vendored
+*.shader linguist-vendored
+*.asp linguist-vendored
